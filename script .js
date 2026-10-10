@@ -1,3 +1,3 @@
-const button = getElementById("myButton")
+const button = getElementById("myButton");
 button.addEventListener("dblclick" , function()
-                        alirt("fuck you")
+                        alirt("fuck you");
